@@ -2,7 +2,7 @@ vars = {
   'chromium_version':
     '66.0.3359.181',
   'libchromiumcontent_revision':
-    '[PLACEHOLDER: update once libcc #633 and #634 are merged]',
+    'd24e0218be60fcfa64ce372f8a21c971f9da066c',
   'node_version':
     'v10.2.0-37-gbf0e061ddc',
 
